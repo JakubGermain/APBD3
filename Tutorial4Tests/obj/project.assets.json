@@ -964,11 +964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4Tests\\Tutorial4Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4Tests\\Tutorial4Tests.csproj",
       "projectName": "Tutorial4Tests",
-      "projectPath": "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4Tests\\Tutorial4Tests.csproj",
+      "projectPath": "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4Tests\\Tutorial4Tests.csproj",
       "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4Tests\\obj\\",
+      "outputPath": "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jakub\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -983,8 +983,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4\\Tutorial4.csproj": {
-              "projectPath": "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4\\Tutorial4.csproj"
+            "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4\\Tutorial4.csproj": {
+              "projectPath": "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4\\Tutorial4.csproj"
             }
           }
         }

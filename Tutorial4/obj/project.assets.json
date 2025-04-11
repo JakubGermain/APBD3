@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4\\Tutorial4.csproj",
+      "projectUniqueName": "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4\\Tutorial4.csproj",
       "projectName": "Tutorial4",
-      "projectPath": "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4\\Tutorial4.csproj",
+      "projectPath": "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4\\Tutorial4.csproj",
       "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jakub\\Desktop\\Tutor4\\Tutorial4\\obj\\",
+      "outputPath": "C:\\Users\\Jakub\\Desktop\\APBD3\\Tutorial4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jakub\\AppData\\Roaming\\NuGet\\NuGet.Config"
